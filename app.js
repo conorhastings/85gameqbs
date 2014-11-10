@@ -69,7 +69,7 @@ $(function () {
 				},
 				tooltip: {
 					headerFormat: '',
-					pointFormat: '<b>{point.idiot}</b>'
+					pointFormat: '<b>{point.idiot}</b><br>Wins:{point.x} Win Pct:{point.y}'
 				}
 			}
 		}
